@@ -1,8 +1,8 @@
-# Open Code of Conduct
+# Efficient Code of Conduct
 
 An easy to reuse open source code of conduct **template** for communities.
 
-Developed by the [@TODOGroup](https://twitter.com/todogroup) to promote code of conducts for communities. By participating in this project, you are expected to honor this [code of conduct](http://todogroup.org/opencodeofconduct/#Open+Code+of+Conduct/abuse@todogroup.org).
+Created by the [@TODOGroup](https://twitter.com/todogroup) and later forked and split by CoWinkKeyDinkInc, the Efficient Code of Conduct was made to promote code of conducts for communities. By participating in this project, you are expected to honor the Efficient Code of Conduct (this repository).
 
 ## FAQ
 
@@ -14,7 +14,7 @@ Diversity is a part of life. Having a diverse contributor community from differe
 
 #### How is this code of conduct licensed?
 
-The very accommodating license, [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+As this was forked from the Open Code of Conduct, it's still under the very accommodating license, [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 
 #### What do you mean that the open code of conduct is a template?
 
@@ -40,7 +40,7 @@ However, we highly recommend the following resources on the topic,
 
 #### Can I use something simpler? What about the Contributor Covenant?
 
-The [contributor convenant](http://www.ashedryden.com/blog/codes-of-conduct-101-faq) is a great option and we recommend you take a look at it. However, we had a need to make a customizable by default code of conduct in template form, geared towards organizations who run larger open source projects.
+The [contributor covenant](http://www.ashedryden.com/blog/codes-of-conduct-101-faq) is a great option and we recommend you take a look at it. However, we had a need to make a customizable by default code of conduct in template form, geared towards organizations who run larger open source projects.
 
 #### Can I contribute and improve this code of conduct?
 
@@ -60,5 +60,4 @@ We all stand on the shoulders of giants across many open source communities. We'
 * Python: https://www.python.org/community/diversity/
 * Ubuntu: http://www.ubuntu.com/about/about-ubuntu/conduct
 * Contributor Covenant: http://contributor-covenant.org/
-* Geek Feminism: http://geekfeminism.org/about/code-of-conduct/
 * Citizen Code of Conduct: http://citizencodeofconduct.org/

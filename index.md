@@ -3,37 +3,35 @@ layout: code-of-conduct
 version: v1.0
 ---
 
-This code of conduct outlines our expectations for participants within the **[COMMUNITY]** community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
+This code of conduct outlines most of our expectations for participants within the **[COMMUNITY]** community, as well as steps to reporting rule-breaking. We are committed to providing a welcoming and friendly community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 
 Our community strives to:
 
 * **Be friendly and patient.**
-* **Be welcoming**: We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
-* **Be considerate**: Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
-* **Be respectful**:  Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one.
-* **Be careful in the words that you choose**: We are a community made of many different people, and we conduct ourselves politely. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren't acceptable.
-* **Try to understand why others may disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity, people from a wide range of backgrounds. People have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to make errors and mistakes and that blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+* **Be welcoming**: We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, educational level, sex, sexual orientation, gender identity, age, appearance, political beliefs, religion, and mental and physical ability.
+* **Be considerate**: Your work will be used by other people, and you in turn will use the work of others. Any decision you take will affect users, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
+* **Be respectful**:  Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable, threatened or where things go off-topic is not a productive one.
+* **Maintain a calm and casual atomosphere**: We are a community made of many different people, and we will conduct ourselves politely. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren't acceptable.  In other words, just follow the [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule), and you will be fine!
+* **Try to understand why others may disagree**: Disagreements happen all the time. It is important that we resolve disagreements and differing views constructively.  The strength of communities comes from diversity and people from a wide range of backgrounds. People have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to make errors and mistakes and that blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
 ## Definitions
 
 Harassment includes, but is not limited to:
 
-- Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, or lack thereof, physical appearance, body size, race, age, regional discrimination, political or religious affiliation
-- Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
-- Deliberate misgendering. This includes using one's previous name and persistently using the pronoun that does not reflect the person's gender identity. You must address people by the name they give you when not addressing them by their username or handle
+- Offensive comments related to race, culture, national origin, sex, sexual orientation, gender identity and expression, disability, mental illness, appearance, age, regional discrimination, political or religious affiliation
+- Rude comments regarding a person’s lifestyle and practices, including those related to food, health, parenting, drugs, and employment
+- Deliberate misgendering. This includes using one's previous name and persistently using the pronoun that does not reflect the person's gender identity. You must address people by their real name, username or handle
 - Threats of violence, both physical and psychological
-- Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
+- Pressuring acts of violence towards oneself; ie encouraging a person to commit suicide or to engage in self-harm
 - Deliberate intimidation
-- Stalking or following
+- Stalking
 - Harassing photography or recording, including logging online activity for harassment purposes
-- Sustained disruption of discussion
-- Unwelcome sexual attention, including gratuitous or off-topic sexual images or behavior
+- Disrupting casual dissuasion
+- Unwanted sexual attention
 - Constant attempts of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
-- Continued one-on-one communication after requests to cease
-- Deliberately releasing or sharing an individual's or an organization's personal information without permission (privately or publicly) except as necessary to protect others from intentional abuse
-- Publication of non-harassing private communication
+- Deliberately releasing or sharing an individual's or an organization's personal information without permission (privately or publicly) except when needed to prevent abuse
 
-Our open source community prioritizes people’s safety over people’s comfort. We will not act on complaints regarding:
+Our community prioritizes people’s safety over people’s comfort. We will not act on complaints regarding:
 
 - Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you”
 - Communicating in a ‘tone’ you don’t like
@@ -42,20 +40,20 @@ Our open source community prioritizes people’s safety over people’s comfort.
 
 ### Diversity Statement
 
-We encourage everyone to participate and are committed to building a community for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and do our best to right the wrong.
+We encourage everyone to participate into building a community for all. We seek to treat everyone both fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to
 
-Although this list cannot be exhaustive, we treat people the same, regardless of age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
+Although this list cannot be exhaustive, we treat people the same, regardless of age, gender, gender identity, culture, ethnicity, language skill, national origin, political beliefs, profession, race, religion, sexual orientation, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
 
 ### Reporting Issues
 
-If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via **[CONTACT]**. All reports will be handled with discretion. In your report please include:
+If you experience or witness unacceptable behavior or have any other concerns, please report it by contacting us via **[CONTACT]**. All reports will be handled in private. In your report please include:
 
-- Your contact information.
-- Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please
-include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger), please include a link.
+- Your contact info.
+- Names (real or nicknames) of any individuals involved.
+- Your account of what occurred, and if the incident is ongoing. If there is a publicly available proof (e.g. forum post, a mailing list archive or a public IRC logger), link it.
 - Any additional information that may be helpful.
 
-After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. If the person who is harassing you is part of the response team, it will be handled by a different member of the response team. If the complaint originates from a member of the response team, it will be handled by another person in the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
+After filing a report, a staff member will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. If the person who is harassing you is part of the staff, it will be handled by a staff member higher up. We will respect confidentiality requests for the purpose of protecting people of abuse.
 
 ### Attribution & Acknowledgements
 
@@ -63,7 +61,6 @@ We all stand on the shoulders of giants across many open source communities.  We
 
 * [Django](https://www.djangoproject.com/conduct/reporting/)
 * [Python](https://www.python.org/community/diversity/)
-* [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct)
+* [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct/)
 * [Contributor Covenant](http://contributor-covenant.org/)
-* [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
 * [Citizen Code of Conduct](http://citizencodeofconduct.org/)

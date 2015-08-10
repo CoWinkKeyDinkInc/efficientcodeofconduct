@@ -10,17 +10,17 @@ Created by the [@TODOGroup](https://twitter.com/todogroup) and later forked and 
 
 We all know that a code of conduct helps set the ground rules for participation in communities, and more importantly helps to build a place of respect and improve diversity. According to the latest [FLOSS survey](http://floss2013.libresoft.es/results.en.html), we have lots of work to do in improving diversity across open source communities.
 
-Diversity is a part of life. Having a diverse contributor community from different backgrounds and organizations will help set your community up for long term success. [Research](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter/) shows that diverse communities are more creative, diligent and innovative.
+Diversity is a part of life. Having a diverse contributor community from different backgrounds and organizations will help set your community up for long term success. [Research](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter) shows that diverse communities are more creative, diligent and innovative.
 
 #### How is this code of conduct licensed?
 
-As this was forked from the Open Code of Conduct, it's still under the very accommodating license, [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+As this was forked from the Open Code of Conduct, it's still under the very accommodating license, [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0).
 
 #### What do you mean that the open code of conduct is a template?
 
 It's very hard to develop a one size fits all code of conduct for open source communities, so we took template approach inspired by the [BSD license](http://opensource.org/licenses/BSD-3-Clause). This allows organizations to work off the core code of conduct while customizing it to their needs.
 
-#### What companies or communities support or use the Open Code of Conduct?
+#### What companies or communities support or use/share parts of the Open Code of Conduct?
 
 * Twitter: https://engineering.twitter.com/opensource/code-of-conduct
 * Box: http://opensource.box.com/code-of-conduct
@@ -56,8 +56,8 @@ We do respect and support freedom of speech.  Most would agree that we should dr
 
 We all stand on the shoulders of giants across many open source communities. We'd like to thank the [communities and projects that established code of conducts and diversity statements](http://todogroup.org/opencodeofconduct/#attribution--acknowledgements) as our inspiration:
 
-* Django: https://www.djangoproject.com/conduct/reporting/
-* Python: https://www.python.org/community/diversity/
+* Django: https://www.djangoproject.com/conduct/reporting
+* Python: https://www.python.org/community/diversity
 * Ubuntu: http://www.ubuntu.com/about/about-ubuntu/conduct
-* Contributor Covenant: http://contributor-covenant.org/
-* Citizen Code of Conduct: http://citizencodeofconduct.org/
+* Contributor Covenant: http://contributor-covenant.org
+* Citizen Code of Conduct: http://citizencodeofconduct.org
